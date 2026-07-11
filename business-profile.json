@@ -31,6 +31,42 @@
     "Fuel delivery",
     "Light hauling"
   ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Local towing and roadside assistance pages",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "24/7 Towing in Atlanta, GA",
+        "url": "https://moveanycarus.com/towing-atlanta/"
+      },
+      {
+        "@type": "Offer",
+        "name": "Roadside Assistance in Atlanta, GA",
+        "url": "https://moveanycarus.com/roadside-assistance-atlanta/"
+      },
+      {
+        "@type": "Offer",
+        "name": "Jump Start Service in Atlanta, GA",
+        "url": "https://moveanycarus.com/jump-start-atlanta/"
+      },
+      {
+        "@type": "Offer",
+        "name": "Car Lockout Service in Atlanta, GA",
+        "url": "https://moveanycarus.com/car-lockout-atlanta/"
+      },
+      {
+        "@type": "Offer",
+        "name": "24/7 Towing in Marietta, GA",
+        "url": "https://moveanycarus.com/towing-marietta/"
+      },
+      {
+        "@type": "Offer",
+        "name": "24/7 Towing in Alpharetta, GA",
+        "url": "https://moveanycarus.com/towing-alpharetta/"
+      }
+    ]
+  },
   "sameAs": [
     "https://share.google/2CQI1jbhxcHrPcZaW"
   ]
